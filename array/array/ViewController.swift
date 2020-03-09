@@ -97,7 +97,7 @@ class Solution {
                 p1 -= 1
             }
         }
-        // 这里要处理 num2 还有剩余的情况，因为num1保证有足够空间容纳num2
+        // 这里要处理 num2 还有剩余的情况，因为num1保证有足够空间容纳num2， 因为 m <= n
         while p2 >= 0 {
             nums1[p] = nums2[p2]
             p2 -= 1
