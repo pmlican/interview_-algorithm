@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:dynamic_planning/dynamic_planning.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:tree/tree.xcodeproj">
    </FileRef>
    <FileRef
