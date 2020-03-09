@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:tree/tree.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:binarySearch/binarySearch.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:array/array.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:hash/hash.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:linkedList/linkedList.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:findSuperviews/findSuperviews.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:sort/sort.xcodeproj">
+   </FileRef>
+</Workspace>
